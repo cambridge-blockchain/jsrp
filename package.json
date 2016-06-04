@@ -9,7 +9,7 @@
   "author": "Alax Villmann",
   "license": "MIT",
   "dependencies": {
-    "jsbn": "0.0.0"
+    "jsbn": "0.1.0"
   },
   "devDependencies": {
     "should": "^4.0.4",
